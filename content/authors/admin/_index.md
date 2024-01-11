@@ -1,51 +1,51 @@
 ---
 # Display name
-title: 吳健雄
+title: Kunal Saini
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+# name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Kunal
+last_name: Saini
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 📚
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Chartered Accountancy Intern 
 
 # Organizations/Affiliations to show in About widget
-organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:kunalsaini1803@gmail.com'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+    url: https://twitter.com/KunalSa99538483
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.instagram.com/kunal.saini___/
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: brands/google-scholar
-    url: https://scholar.google.com/citations?user=mG4imMEAAAAJ
-  - icon: brands/orcid
-    url: https://www.orcid.com/
+    url: https://www.linkedin.com/in/kunal-saini-98a719282/
   # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
   - icon: academicons/cv
     url: uploads/resume.pdf
     label: Download my resume
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include
-distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops
-self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+As a driven professional with a background in commerce, a passion for pursuing Chartered Accountancy, and a diverse skill set spanning from leadership to coding, I bring a unique blend of expertise to the table.
+
+My journey has seen me excel in various domains, from mastering accounting intricacies to delving into the world of coding, showcasing my versatility and adaptability.
+
+Beyond academics, I thrive in challenges, both as an athlete and in my career pursuits. Leadership comes naturally to me, driving teams toward shared goals with confidence and determination.
+
+I am unwaveringly committed to leveraging my skills and experience to become an invaluable asset to any company. Given the opportunity, I am poised to deliver results that exceed expectations, contributing significantly to the success of the organization.
+
+Let's connect and explore ways to collaborate for mutual growth and success.
